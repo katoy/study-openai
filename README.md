@@ -1,5 +1,5 @@
 
-# raspberry pi 5 と OpenAO API
+# raspberry pi 5 と OpenAI API
 
 raspberry pi 5, usb web camera, blotutooth スピーカを使っている環境です。
 
